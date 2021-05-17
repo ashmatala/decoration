@@ -360,8 +360,12 @@ li>a {
     margin: 0 auto;
 }
 .section-6 {
-    min-height: 480px;
-    background-image: url(/img/background.png);
+    min-height: 480px;    
+    background-image: url(../img/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    margin-top: 120px;
 }
 .section-6 h3 {
     font-family: 'Gilroy';
