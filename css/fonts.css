@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/gilroy-regular.eot');
+    src: url('../fonts/gilroy-regular.eot?iefix') format('eot'),
+    url('../fonts/gilroy-regular.woff') format('woff'),
+    url('../fonts/gilroy-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/gilroy-ultralight.eot');
+    src: url('../fonts/gilroy-ultralight.eot?iefix') format('eot'),
+    url('../fonts/gilroy-ultralight.woff') format('woff'),
+    url('../fonts/gilroy-ultralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: regular;
+}
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('../fonts/notoserifbold.eot');
+    src: url('../fonts/notoserifbold.eot?iefix') format('eot'),
+    url('../fonts/notoserifbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: bold;
+}
+
